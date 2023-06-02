@@ -16,7 +16,7 @@
 - МОИ КОНТАКТЫ
 - Почта: Seferon90@mail.ru
 - Резюме: https://stavropol.hh.ru/resume/1c4d6facff0b6654a20039ed1f773935654142
-- Соц.сеть https://web.telegram.org/a/
+- Соц.сеть: https://web.telegram.org/a/
 
 
 
