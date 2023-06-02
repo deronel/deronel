@@ -10,5 +10,10 @@
 - C#
 -Django
 - Flask
+- ВЫПОЛНЕНЫЕ ПРОЭКТЫ
+- https://github.com/deronel/VK-KINDER
+- https://github.com/deronel/vk.bd
+- МОИ КОНТАКТЫ
+
 
 
